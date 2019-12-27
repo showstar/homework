@@ -1,0 +1,1 @@
+[{"id":"40f9dca4.47fb34","type":"function","z":"620996f4.0b2a58","name":"Payload","func":"msg.headers={\n    deviceKey: \"j30ZSCDKy62rSr10\"\n};\n\nmsg.payload=\"Temperature,,26.3\";\nreturn msg;","outputs":1,"noerr":0,"x":330,"y":140,"wires":[["34f3f67.03f520a"]]}]
